@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # coding=utf-8
-# (xclowns) termuxID
-# Source : Python2 Gerak"
-# Wah Ada Kang Recode kek kont*l
+# (xclowns) Aldi soleman
+# Source : tidack tahu
+# KOMUNITAS CYBER INDONESIA
 
 #Import module
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
@@ -66,7 +66,7 @@ logo = """\033[1;93m█████████
 \033[1;93m ██ ██
 \033[1;93m╔════════════════════════════════════════════╗
 \033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m: \033[1;93mALDI SOLEMAN \033[1;93m              
-\033[1;93m║\033[1;96m* \033[1;93mGitHub  \033[1;93m: \033[1;93m\033[4minout\033[0m \033[1;93m      
+\033[1;93m║\033[1;96m* \033[1;93mGitHub  \033[1;93m: \033[1;93m\033[4mAldi27052003\033[0m \033[1;93m      
 \033[1;93m╚════════════════════════════════════════════╝"""
 
 # titik #
